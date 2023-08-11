@@ -1,0 +1,22 @@
+{
+    "title": {
+        "name": "Products"
+    },
+    "search": {
+        "searchText": "Search"
+    },
+    "menu": {
+        "men": "Men",
+        "women": "Women",
+        "kid": "Kid"
+    },
+    "footer": {
+        "copyright": "© 2023 Your Company. All rights reserved"
+    },
+    "filter": {
+        "all": "All",
+        "men": "Men",
+        "women": "Women",
+        "kid": "Kid"
+    }
+}

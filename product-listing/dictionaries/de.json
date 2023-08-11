@@ -1,0 +1,22 @@
+{
+    "title": {
+        "name": "Produkte"
+    },
+    "search": {
+        "searchText": "Suchen"
+    },
+    "menu": {
+        "men": "Männer",
+        "women": "Frauen",
+        "kid": "Kind"
+    },
+    "footer": {
+        "copyright": "© 2023 Ihr Unternehmen. Alle Rechte vorbehalten"
+    },
+    "filter": {
+        "all": "Alle",
+        "men": "Männer",
+        "women": "Frauen",
+        "kid": "Kind"
+    }
+}
